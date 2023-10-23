@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><array name="villes">
+    <item>Agadir</item>
+    <item>El Jadida</item>
+    <item>Casablanca</item>
+    <!-- Ajoutez d'autres éléments de ville ici -->
+</array></resources>
